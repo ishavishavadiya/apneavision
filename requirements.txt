@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+torch
+torchvision
+torchaudio
+tensorflow
+scipy
+tqdm
+jupyter
+shap
+lime
+opencv-python
+transformers
